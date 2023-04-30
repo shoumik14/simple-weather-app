@@ -3,12 +3,13 @@
 .container{
     background-color: #091f43;
     height: 100vh;
+    font-family: 'Roboto', sans-serif;
+
 }
 
-.container h1{
+.container .heading{
     color: #fdfdfb;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
     font-size: 3em;
     letter-spacing: 3px;
 }

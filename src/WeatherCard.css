@@ -1,0 +1,39 @@
+div.card{
+
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+
+div.card div{
+    background-color: #fff;
+    width: 300px;
+    height: 350px;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding: 35px;
+}
+
+div.card div p{
+    color: grey;
+}
+div.card div p span{
+    background-color: #f39d33;
+    color: white;
+    padding: 0 7px;
+    border-radius: 10px;
+    font-size: 10px;
+    position: relative;
+    bottom: 5px;
+    
+}
+
+h1.temp{
+    font-size: 4em;
+}
+
+img{
+    height: 8em;
+    width: 4em;
+}
